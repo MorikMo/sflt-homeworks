@@ -8,7 +8,7 @@
 
 <img src = "img/101.png" width = 100%>
 
-
+[HAProxy](/files/haproxy-1.cfg#HAProxy-в-visual-studio-code)
 
 
 
