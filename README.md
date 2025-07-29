@@ -8,7 +8,7 @@
 
 <img src = "img/101.png" width = 100%>
 
-[HAProxy](/files/haproxy-1.cfg#HAProxy-в-visual-studio-code)
+[HAProxyL4](/files/haproxy-1.cfg#HAProxyL4-в-visual-studio-code)
 
 
 
@@ -22,3 +22,4 @@
 
 <img src = "img/102.png" width = 100%>
 
+[HAProxyL7](/files/haproxy-2.cfg#HAProxyL7-в-visual-studio-code)
